@@ -1,3 +1,3 @@
 console('homepage');
-console('add page');
+console('add page and');
 
